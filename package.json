@@ -1,0 +1,31 @@
+{
+  "name": "mern-stack",
+  "version": "2.0.1",
+  "description": "CRUD in MongoDB, Express, React/Redux, Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint --fix src/",
+    "precommit": "npm test",
+    "prepush": "npm test",
+    "heroku:add": "heroku git:remote -a",
+    "deploy:heroku": "git subtree push --prefix server heroku master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amazingandyyy/mern-stack.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Amazingandyyy <amazingandyyy@gmail.com> (Andy Chen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amazingandyyy/mern-stack/issues"
+  },
+  "homepage": "https://github.com/amazingandyyy/mern-stack#readme",
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {}
+}

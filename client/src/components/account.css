@@ -1,0 +1,15 @@
+.margin {
+  margin: 10px;
+};
+
+.marginButton {
+  margin: -20px;
+};
+
+.input {
+  margin-left: 10px !important;
+};
+
+.button {
+  margin: 10px !important;
+};
