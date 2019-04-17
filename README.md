@@ -17,7 +17,7 @@ Machines are great at taking in data and course correcting. Humans aren't as gre
 [![Minimalist Demo](minimalist.png)](https://youtu.be/vMQijetKvCY "minimalist")
 
 ### Links
-Github Repository: https://github.com/markpython86/Project-3
+Github Repository: https://github.com/aalbrecht17235/minimalist
 Live Heroku Link: 
 
 ### Technologies Used
